@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Er. Niraj Singh</h1>
+<h1 align="center">Hi 👋, I'm  Niraj Singh</h1>
 <h3 align="center">Senior Full-Stack Engineer | PHP • Python • FastAPI • React • Angular • AWS</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=9%2B+Years+of+Enterprise+Software+Development;PHP+%7C+Python+%7C+FastAPI+%7C+React+%7C+Angular;Building+Scalable+Cloud+Native+Applications;AI+%7C+Docker+%7C+PostgreSQL+%7C+AWS;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
 </p>---
