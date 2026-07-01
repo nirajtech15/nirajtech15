@@ -42,10 +42,12 @@ VS Code • Postman • GitHub • npm • Composer
 🚀 Featured Projects
 
 Project| Tech Stack| Description
+AI Job Tracker| Python • FastAPI • React • PostgreSQL | Generative AI | Agentic AI
 BiharBusiness.com| Laravel • Angular • MySQL| Bihar Local Business Platform
 KabadiMarket| FastAPI • React • PostgreSQL| Scrap Collection & Marketplace Platform
 Digital Bihar Tools| PHP • JavaScript| Productivity tools for Bihar businesses
 Enterprise Pharma Solutions| Angular • PHP • MySQL| Workforce & Manufacturing Applications
+App for BiharBusiness.com | Laravel • React • Capacitor (convert react to AndroidApp) • PaymentGateway • MySQL | App Bihar Local Business Platform
 
 ---
 
@@ -57,7 +59,6 @@ Enterprise Pharma Solutions| Angular • PHP • MySQL| Workforce & Manufacturin
 - PostgreSQL
 - Redis
 - Docker
-- Kubernetes
 - AWS
 - Agentic AI
 - MCP & RAG
